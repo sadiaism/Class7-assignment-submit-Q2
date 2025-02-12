@@ -3,8 +3,8 @@
  const Footer =()=>{
     return(
         <footer className="bg-pink-300 ">
-            <div className="py-10">
-                <p  className="text-center font-extra ">Contact For me</p>
+            <div className="py-10 text-[24px] p-[12px]">
+                <p  className="text-center font-bold text-[32px] ">Contact For me</p>
                 <div>
                     <li><a href="mailto:ismailmoiz80@gmail.com"
                     className="hover:text-purple-600  flex-gap-5 ">Sadia

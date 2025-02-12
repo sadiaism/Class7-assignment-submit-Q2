@@ -1,10 +1,10 @@
 import React from "react";
 import Link from "next/link";
 
-const Header =()=>{
+const Header =()=>{ 
     return(
         <header className="bg-pink-300  " >
-            <div className="bg-[url)'/images/bg-image.jpeg')] bg-no-repeat py-11 items-center"><h1 className="text-2xl ">Portfolio Of Book</h1>
+            <div  className="bg-no-repeat py-11 items-center"><h1 className="text-4xl ">Portfolio Of Book</h1>
             
                 <nav className="container mx-auto text-2xl justify-between items-center">
                     <ul className=" flex gap-5 py-11 justify-end ">
