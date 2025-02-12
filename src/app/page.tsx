@@ -19,7 +19,7 @@ const Home=()=>{
             <div className=" bg-gradient-to-r from-cyan-500 to-blue-500  ">
             <div className="bg-gray-200 shadow-lg rounded-lg overflow-hidden transition transform hover:scale-105 mx-11">
               <Image
-              src="/images/books_ad.png"
+              src="/images/book.png"
               alt="About Books"
               width={500}
               height={300}
